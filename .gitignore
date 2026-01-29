@@ -1,0 +1,10 @@
+venv/
+.pylintric
+__pycache__/
+
+.idea
+.env
+
+db.sqlite3
+media/
+products/
